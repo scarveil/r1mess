@@ -38,36 +38,3 @@ Want to know more about me? [Check out my portfolio.](https://www.behance.net/ri
 
 <div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=r1mess&hide_border=true&layout=compact&theme=transparent" align="right" /></div>  
 
-<br/>  
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/>
-
-<br/> 
-
-<br/> 
-
-<br/> 
-
-### 📝 Latest releases  
-- [Link](http://example/com)
-- [Link](http://example/com)
-- [Link](http://example/com)
-- [Link](http://example/com)  
-  
-<br/>  
-
-<br/>  
-  
-<br/>  
-
-<br/>  
-
-<br/>  
-
-<br />
