@@ -1,5 +1,11 @@
 
-<br/>
+Hey there 👋
+
+I'm r1mes, a UI/UX designer and beginner coder, creative designer and self-proclaimed coder specializing in front-end development. My mission is to translate user-centered design into perfect websites and apps that work lightning fast.
+
+Want to know more about me? [Check out my portfolio.](https://www.behance.net/rimes) 
+
+<br/>  
 
 <a href="https://github.com/https://github.com/r1mess" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -16,17 +22,6 @@
 <a href="https://instagram.com/https://www.instagram.com/_dastex_/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-<br/> 
-<br/> 
-<br/> 
-Hey there 👋
-
-I'm r1mes, a UI/UX designer and beginner coder, creative designer and self-proclaimed coder specializing in front-end development. My mission is to translate user-centered design into perfect websites and apps that work lightning fast.
-
-Want to know more about me? [Check out my portfolio.](https://www.behance.net/rimes) 
-
-<br/>  
 
 <br/>  
 
