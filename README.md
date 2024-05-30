@@ -3,7 +3,7 @@ Hey there 👋
 
 I'm r1mes, a UI/UX designer and beginner coder, creative designer and self-proclaimed coder specializing in front-end development. My mission is to translate user-centered design into perfect websites and apps that work lightning fast.
 
-Want to know more about me? [Check out my portfolio.](https://www.behance.net/rimes) 
+Want to know more about me? [Check out my portfolio.](https://www.behance.net/Vasili_Husak) 
 
 <br/>  
 
